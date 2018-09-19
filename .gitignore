@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+manuvirtual
+db.sqlite3
+/static
+.DS_Stora
